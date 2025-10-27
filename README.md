@@ -1,24 +1,38 @@
-# 💫 About Me:
-I'm currently learning Full Stack Web Development 🌐  
-I love building modern web apps and improving every day 💪  
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanimbhavanim65@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavani6574&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavani6574&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Bhavani6574&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋, I'm Bhavani M</h1>
+<h3 align="center">💻 Passionate Full Stack Developer | Future AI Engineer 🌱</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavani6574&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🪴 About Me:
+- 🌍 I’m currently learning **Full Stack Web Development**
+- 🚀 Exploring **JavaScript, React, and Backend**
+- 🎯 Goal: Become a **Full Stack + AI Developer**
+
+---
+
+### 🌐 Connect With Me:
+📧 **Email:** bhavanimbhavanim65@gmail.com 
+
+---
+
+### 🧠 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,vscode,photoshop" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavani6574&show_icons=true&theme=radical" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 🌟 Quote for You:
+TRUST YOUR PASSION DREAM!!
+---
