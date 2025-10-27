@@ -17,7 +17,7 @@
 
 ### 🧠 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,postgreSQL" />
 </p>
 
 ---
@@ -33,6 +33,6 @@
 
 ---
 
-### 🌟 Quote for You:
-TRUST YOUR PASSION DREAM!!
+### 🌟 Quote for the day :
+TRUST YOUR PASSION AND  DREAM!!
 ---
