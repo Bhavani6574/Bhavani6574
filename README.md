@@ -16,23 +16,23 @@
 ---
 
 ### 🧠 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,postgreSQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,postgresql,vscode,github" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavani6574&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavani6574&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavani6574&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🌟 Quote for the day :
-TRUST YOUR PASSION AND  DREAM!!
----
+<h3 align="center">🌟 Quote for the day 🌟</h3>
+<p align="center"><i>"Trust your passion and dream!!"</i></p>
