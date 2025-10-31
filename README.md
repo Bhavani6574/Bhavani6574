@@ -6,8 +6,6 @@
 ### 🌸 About Me:
 - 🌍 Currently learning **Full Stack Web Development**
 - 💡 Exploring **HTML**, **CSS**, and **JavaScript**
-- 🚀 Dreaming big to become a **Full Stack + AI Developer**
-- 💖 Love to **create, learn, and grow** every single day
 
 ---
 
@@ -27,28 +25,18 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical&hide_border=false&background=000000&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ffffff" alt="streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavani6574&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
-### 📅 Streak Summary:
-<p align="center">
-  
-| 🌟 Metric | 🌸 Value |
-|:----------:|:---------:|
-| 🔥 Current Streak (days) | — |
-| 🏆 Longest Streak (days) | — |
-| 💬 Total Contributed Days | — |
 
-</p>
-
-> 🌻 *Keep your streak alive — one commit a day keeps doubt away!*
 
 ---
 
-<h3 align="center">💫 Quote of the Day 💫</h3>
-<p align="center"><i>"Trust your passion and dream — they’ll guide your journey to success!"</i></p>
+<h3 align>💫 Quote of the Day 💫</h3>
+<p align><i>"Trust your passion and dream — they’ll guide your journey to success!"</i></p>
 
 ---
 
