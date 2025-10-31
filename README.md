@@ -23,10 +23,11 @@
 
 ---
 
-### 🔥 GitHub Streak:
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavani6574&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bhavani6574&theme=radical&hide_border=false&border_radius=15&ring=ff66cc&fire=ff3385&currStreakNum=ffffff&currStreakLabel=ff66cc" alt="Bhavani's Streak" height="180"/>
 </p>
+
 
 
 
