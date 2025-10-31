@@ -25,8 +25,9 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavani6574&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bhavani6574&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 
 ---
