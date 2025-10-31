@@ -1,38 +1,57 @@
-<h1 align="center">Hi 👋, I'm Bhavani M</h1>
-<h3 align="center">💻 Passionate Full Stack Developer | Future AI Engineer 🌱</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff6ec7;">Bhavani M</span></h1>
+<h3 align="center">💻 Passionate Full Stack Developer | 🌱 Future AI Engineer</h3>
 
 ---
 
-### 🪴 About Me:
-- 🌍 I’m currently learning **Full Stack Web Development**
-- 🚀 Exploring **JavaScript, React, and Backend**
-- 🎯 Goal: Become a **Full Stack + AI Developer**
+### 🌸 About Me:
+- 🌍 Currently learning **Full Stack Web Development**
+- 💡 Exploring **HTML**, **CSS**, and **JavaScript**
+- 🚀 Dreaming big to become a **Full Stack + AI Developer**
+- 💖 Love to **create, learn, and grow** every single day
 
 ---
 
-### 🌐 Connect With Me:
-📧 **Email:** bhavanimbhavanim65@gmail.com 
+### 📫 Connect With Me:
+<p align="center">
+  <a href="mailto:bhavanimbhavanim65@gmail.com"><b>✉️ bhavanimbhavanim65@gmail.com</b></a>
+</p>
 
 ---
 
 ### 🧠 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,postgresql,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="tech stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavani6574&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavani6574&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavani6574&theme=radical&hide_border=false&background=000000&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ffffff" alt="streak" height="170"/>
 </p>
 
 ---
 
-<h3 align="center">🌟 Quote for the day 🌟</h3>
-<p align="center"><i>"Trust your passion and dream!!"</i></p>
+### 📅 Streak Summary:
+<p align="center">
+  
+| 🌟 Metric | 🌸 Value |
+|:----------:|:---------:|
+| 🔥 Current Streak (days) | — |
+| 🏆 Longest Streak (days) | — |
+| 💬 Total Contributed Days | — |
+
+</p>
+
+> 🌻 *Keep your streak alive — one commit a day keeps doubt away!*
+
+---
+
+<h3 align="center">💫 Quote of the Day 💫</h3>
+<p align="center"><i>"Trust your passion and dream — they’ll guide your journey to success!"</i></p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Keep+Learning+🌱;Keep+Growing+🌸" alt="Typing SVG" />
+</p>
