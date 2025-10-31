@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#ff6ec7;">Bhavani M</span></h1>
-<h3 align="center">💻 Passionate Full Stack Developer | 🌱 Future AI Engineer</h3>
+<h1 align="center">✨ Hi, I'm <span style="color:#ff69b4;">Bhavani M</span> ✨</h1>
+<h3 align="center">💻 Passionate Web Developer | 🌱 Learning HTML & CSS</h3>
 
----
-
-### 🌸 About Me:
+🌸 About Me:
 - 🌍 Currently learning **Full Stack Web Development**
 - 💡 Exploring **HTML**, **CSS**, and **JavaScript**
 
@@ -16,32 +14,25 @@
 
 ---
 
-### 🧠 Tech Stack:
+### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavani6574&theme=radical&hide_border=false&border_radius=15&ring=ff66cc&fire=ff3385&currStreakNum=ffffff&currStreakLabel=ff66cc" alt="Bhavani's Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Bhavani6574&theme=transparent&hide_border=false&border_radius=12&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" height="180"/>
 </p>
 
-
-
-
 ---
 
-
-
----
-
-<h3 align>💫 Quote of the Day 💫</h3>
-<p align><i>"Trust your passion and dream — they’ll guide your journey to success!"</i></p>
-
----
-
+### 💡 Quote of the Day
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Keep+Learning+🌱;Keep+Growing+🌸" alt="Typing SVG" />
+  <em>" TRUST YOUR DREAM AND PASSION!!"</em>
 </p>
+
+---
+
