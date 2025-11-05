@@ -7,8 +7,8 @@
 
 
 ---
+![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavani6574&show_icons=true&theme=tokyonight)
 
-![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 
 ### 📫 Connect With Me:
