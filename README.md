@@ -5,7 +5,11 @@
 - 🌍 Currently learning **Full Stack Web Development**
 - 💡 Exploring **HTML**, **CSS**, and **JavaScript**
 
+
 ---
+
+![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
 
 ### 📫 Connect With Me:
 <p align>
